@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - midtrans_creditcard (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - midtrans_creditcard (from `.symlinks/plugins/midtrans_creditcard/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  midtrans_creditcard:
+    :path: ".symlinks/plugins/midtrans_creditcard/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  midtrans_creditcard: a62c1857235692e533f6fec70708c5bda8157f60
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.6.1
